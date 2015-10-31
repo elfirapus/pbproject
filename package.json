@@ -1,0 +1,14 @@
+{
+  "name": "pbproject",
+  "version": "1.0.0",
+  "description": "Protocol Buffers adl format serialisasi data baru berbasis binner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elfira Puspita Susanto",
+  "license": "ISC",
+  "dependencies": {
+    "protobuf.js": "^1.1.2"
+  }
+}
